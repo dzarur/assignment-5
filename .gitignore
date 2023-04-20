@@ -1,4 +1,7 @@
 rubric*
+test_data.csv
+*raw*
+*DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
